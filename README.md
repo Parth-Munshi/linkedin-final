@@ -11,10 +11,10 @@ To run this project:
 7. Enable the plugin and then navigate to linkedin.com
 8. Open the message box for one of your contacts!
 
-[
+
 
 https://github.com/user-attachments/assets/93d48fa9-389a-470a-923a-66c4c49605e1
 
-](url)
+
 
 
